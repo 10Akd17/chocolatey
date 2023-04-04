@@ -1,3 +1,5 @@
+# chocolatey
+
 cChocoInstaller InstallChocolatey
 {
   InstallDir            = "C:\ProgramData\chocolatey"
